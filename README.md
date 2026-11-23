@@ -16,3 +16,6 @@ An accessible, modular, and customizable 3D printer design built for makers, stu
 1. Clone this repository:
    `bash
    git clone [https://github.com/jaliloun2007-byte/open_3d-printer-project.git](https://github.com/jaliloun2007-byte/open_3d-printer-project.git)
+## Sample 3D Prints
+
+![3D Printed Figurines Sample](3d_printed_figurines_sample.jpg)
